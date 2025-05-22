@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../til_js"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "til_html"
+  }
+}
